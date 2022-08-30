@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! 👋 My name is Olga. Welcome!
 
-<!--
-**olgaArt1025/olgaArt1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core technologies:
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-%3E%3D8-orange), ![Spring](https://img.shields.io/badge/Spring-%3E%3D5.0-green), ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D5.0-yellow), ![Maven](https://img.shields.io/badge/Maven-%3E%3D3-red), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D9-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My study projects:
+
+1. [REST Chat app](https://github.com/olgaArt1025/job4j_chat)
+2. [Forum using Spring boot](https://github.com/olgaArt1025/job4j_forum)
+3. [Car accident app using Spring and Hibernate](https://github.com/olgaArt1025/job4j_car_accident)
+4. [TodoList app using Spring, Hibernate and PostgreSQL](https://github.com/olgaArt1025/job4j_todo)
+5. [Job Grabber(Html Parser on JSOUP)](https://github.com/olgaArt1025/job4j_grabber)
+6. [Dreamjob app using Spring boot, Thymeleaf](https://github.com/olgaArt1025/job4j_dreamjob2)
+7. [Сar sales(Spring boot, Thymeleaf, Bootstrap, Hibernate, PostgreSql)](https://github.com/olgaArt1025/job4j_cars)
